@@ -68,9 +68,9 @@ var vTurbOriginalPlayer = {
                 "type": "below_button",
                 "btnText": "Quero Curar Minha Disfun\xe7\xe3o",
                 "position": "bc",
-                "link": "https://pagamento-vermelho-secreto-limitado.vercel.app/",
+                "link": "https://pagamento-do-vermelho-secreto.vercel.app/",
                 "range": {
-                    "start": 120,
+                    "start": 1260,
                     "finish": 1501
                 },
                 "color": "#26a201",
